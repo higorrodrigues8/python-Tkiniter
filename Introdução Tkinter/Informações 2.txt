@@ -1,0 +1,9 @@
+1) Gerenciadores de layout;
+    → X,Y campos em plano carteziano.
+
+2) Widget 
+    → Componentes virtuais;
+    → Compartilham o conjunto de propriedades e funções.
+
+3) Eventos
+    → Resposta a uma intereção;

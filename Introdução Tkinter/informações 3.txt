@@ -1,0 +1,6 @@
+
+Gerenciadores de Layout
+
+    → Place: os widgets são dispostos conforme suas coordenadas x e y;
+    → Pack: Empacota os widgets e alinha na vertical ou na horizontal;
+    → Grid: Os widgets são inseridos num sistema de células de uma tabela.

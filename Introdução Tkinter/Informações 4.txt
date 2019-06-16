@@ -1,0 +1,23 @@
+
+
+Tkinter nome da biblioteca 
+tk interface grafica
+
+widgets sao componentes
+
+container é todo componente que guarda componentes
+    - A janela é um container.
+
+Window é uma janela de exibição que recebe outros componentes.
+    - Toda janela é um container e pode conter outros elementos dentro.
+
+top-leve window é uma janela independente que é exibida sob as demais.
+
+frame é a unidade básica de layout complexos
+    - Construção de varias partes juntadas formam um frame.
+
+→toda vez que o um widget é criado tem-se a relação child-parente, que é o nome da relação entre um widget e o container (filho)
+
+→Um campo adicionado a uma janela é uma relação parent-child, onde a janela é o parent e o campo o child.
+
+

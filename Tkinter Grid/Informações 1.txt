@@ -1,0 +1,10 @@
+Sistema de grid
+* Não existe uma quantidade de linhas e colunas.
+* É indiferente em qual celula os componentes serão adicionados.
+
+# Row
+    - Linha
+ 
+
+#Column 
+    - Coluna

@@ -1,0 +1,11 @@
+
+
+Tkinter nome da biblioteca 
+tk interface grafica
+
+widgets sao componentes
+
+container é todo componente que guarda componentes
+    - A janela é um container.
+
+
